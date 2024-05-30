@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+  }
+
+  h1{
+
+ text-transform: uppercase ;
+  }
+
+  .img{
+    border:10px solid white;
+    border-radius: 30px;
+    margin-top: 200px;
+    width: 60%;
+    height: 60%;
+  }
+.poster{
+color: white;
+font-size: 2rem;
+width: 50%;
+margin-left: 25%;
+text-align: center;
+}
+.audio{
+    position: fixed;
+    top: 0;
+}
